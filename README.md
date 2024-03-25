@@ -1,2 +1,2 @@
 # PythonCrashCourse
-reading book notes &amp; code:&lt;&lt;Python Crash Course>>
+reading book's notes &amp; code from <<Python Crash Course>>
